@@ -1,7 +1,5 @@
 # NaturalDateFormat
 
-<b> Turkish translation provided </b>
-
 A library to format dates as described in Material Design guidelines (https://www.google.com/design/spec/patterns/data-formats.html#data-formats-date-time).
 
 RelativeDateFormat formats date as relative (4 months ago, today, next year), AbsoluteDateFormat formats date as absolute (Monday, 4:32 PM, June 10). These classes use natural language, can use abbreviations, 12/24 hours clock, skip time/year/weekday if not needed.
@@ -26,3 +24,6 @@ The second parameter can be a combination of flags from NaturalDateFormat class.
 I know only english and polish. If you wish to help me with translations, feel free to make a pull request with a translation.
 
 There are issues with certain languages on certain platforms. For example polish doesn't work well on Samsung with API 10. It's an issue with Android internals and there's not much I can do with that. 
+
+## Contribution
+Turkish translation provided
